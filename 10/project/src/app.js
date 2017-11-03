@@ -1,11 +1,10 @@
 const header = require('./modules/header/header.js')();
 const content = require('./modules/content/content.js')();
 const footer = require('./modules/footer/footer.js')();
+
 const $ = require('jquery');
-console.log($('div'));
+const body = $('body');
 
-document.body.appendChild(header);
-document.body.appendChild(content);
-document.body.appendChild(footer);
+body.append(header, content, footer);
 
-console.log($('div'));
+

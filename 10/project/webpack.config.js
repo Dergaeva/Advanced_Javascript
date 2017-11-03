@@ -4,14 +4,14 @@ const path = require('path'),
     textPlugin = require('extract-text-webpack-plugin');
 
 module.exports ={
-    //entry: './app.js', //path expected
+
     entry: {
         main: './app.js',
-        vendor: ['jquery'] //[array of filepaths] if npm used - just name
+        vendor: ['jquery']
     },
     context: path.resolve(__dirname, 'src'),
     output: {
-        filename: '[name]-bundle.js', //filename expected
+        filename: '[name]-bundle.js',
         path: path.resolve(__dirname, 'dist')
     },
 
@@ -24,10 +24,6 @@ module.exports ={
                 options: { presets: ['env'] }
             }
         },
-        // {
-        //  test: /\.css$/,
-        //  use: ['style-loader', 'css-loader']
-        // },
         {
             test: /\.s?css$/,
             use: textPlugin.extract({

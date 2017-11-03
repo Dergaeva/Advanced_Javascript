@@ -28,14 +28,11 @@ module.exports = function () {
 var header = __webpack_require__(3)();
 var content = __webpack_require__(5)();
 var footer = __webpack_require__(7)();
+
 var $ = __webpack_require__(1);
-console.log($('div'));
+var body = $('body');
 
-document.body.appendChild(header);
-document.body.appendChild(content);
-document.body.appendChild(footer);
-
-console.log($('div'));
+body.append(header, content, footer);
 
 /***/ }),
 /* 3 */
@@ -48,7 +45,7 @@ var builder = __webpack_require__(0);
 __webpack_require__(4);
 
 module.exports = function () {
-	var content = '<a href="/">Logo</a><p>Hello!!!</p>';
+	var content = '<a href="/">Logo</a><p>Congratulations!!!</p>';
 	return builder('header', content, 'header');
 };
 
@@ -69,8 +66,7 @@ var builder = __webpack_require__(0);
 __webpack_require__(6);
 
 module.exports = function () {
-  var content = '<p class="text">Когда вокруг все увлечены идеей гармоничного развития ребенка, как не потеряться в невероятном множестве различных авторских методик? Методики Н. Зайцева, В. Воскобовича, игры Никитина, Чаплыгина, Кюизенера и Дьенеша, развитие по Глену Доману и Монтессори, технологии Буракова и Бахтиной… Как выбрать ту единственную, которая устроит вас и вашего ребенка и не пропустить что-нибудь новое и интересное? В этом разделе мы будем делиться с вами новостями и рассказывать обо всем, что происходит в мире авторских методик развития.</p>' + '<div class="width1">10%</div>' + '<div class="width2">20%</div>' + '<div class="width3">30%</div>' + '<div class="width4">40%</div>' + '<div class="width5">50%</div>' + '<div class="width6">60%</div>' + '<div class="width7">70%</div>' + '<div class="width8">80%</div>' + '<div class="width9">90%</div>' + '<div class="width10">100%</div>' + '<ul>' + '<li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li>' + '</ul>';
-  '<div class="foo"></div>';
+  var content = '<p class="text">Когда вокруг все увлечены идеей гармоничного развития ребенка, как не потеряться в невероятном множестве различных авторских методик? Методики Н. Зайцева, В. Воскобовича, игры Никитина, Чаплыгина, Кюизенера и Дьенеша, развитие по Глену Доману и Монтессори, технологии Буракова и Бахтиной… Как выбрать ту единственную, которая устроит вас и вашего ребенка и не пропустить что-нибудь новое и интересное? В этом разделе мы будем делиться с вами новостями и рассказывать обо всем, что происходит в мире авторских методик развития.</p>' + '<div class="width1">10%</div>' + '<div class="width2">20%</div>' + '<div class="width3">30%</div>' + '<div class="width4">40%</div>' + '<div class="width5">50%</div>' + '<div class="width6">60%</div>' + '<div class="width7">70%</div>' + '<div class="width8">80%</div>' + '<div class="width9">90%</div>' + '<div class="width10">100%</div>' + '<ul>' + '<li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li>' + '</ul>' + '<div class="foo"></div>';
   return builder('main', content, 'main');
 };
 

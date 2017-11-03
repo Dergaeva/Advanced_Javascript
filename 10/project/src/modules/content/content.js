@@ -15,7 +15,7 @@ module.exports = () => {
     '<div class="width10">100%</div>'+
     '<ul>' +
     '<li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li><li></li>' +
-    '</ul>'
+    '</ul>'+
     '<div class="foo"></div>';
   return builder('main', content, 'main');
 };

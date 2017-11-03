@@ -42,64 +42,64 @@ header {
   border: 1px solid greenyellow; }
 
 ul li:nth-child(1) {
-  background-color: #bd84c8; }
+  background-color: #d6519b; }
 
 ul li:nth-child(2) {
-  background-color: #cd79a5; }
+  background-color: #e05760; }
 
 ul li:nth-child(3) {
-  background-color: #b3d6cb; }
+  background-color: #afa941; }
 
 ul li:nth-child(4) {
-  background-color: #8e59a6; }
+  background-color: #b79c85; }
 
 ul li:nth-child(5) {
-  background-color: #bddea6; }
+  background-color: #d5c430; }
 
 ul li:nth-child(6) {
-  background-color: #49832a; }
+  background-color: #debfc8; }
 
 ul li:nth-child(7) {
-  background-color: #d8daf3; }
+  background-color: #a664a0; }
 
 ul li:nth-child(8) {
-  background-color: #8be9e6; }
+  background-color: #d2e0e4; }
 
 ul li:nth-child(9) {
-  background-color: #a49fdf; }
+  background-color: #bae08f; }
 
 ul li:nth-child(10) {
-  background-color: #f3d0f6; }
+  background-color: #d3d897; }
 
 ul li:nth-child(11) {
-  background-color: #37a068; }
+  background-color: #ae946b; }
 
 ul li:nth-child(12) {
-  background-color: #95d48c; }
+  background-color: #329590; }
 
 ul li:nth-child(13) {
-  background-color: #8feae0; }
+  background-color: #acc9bb; }
 
 ul li:nth-child(14) {
-  background-color: #cfc5ed; }
+  background-color: #a768d4; }
 
 ul li:nth-child(15) {
-  background-color: #94e097; }
+  background-color: #96dea3; }
 
 ul li:nth-child(16) {
-  background-color: #c8eedb; }
+  background-color: #472abb; }
 
 ul li:nth-child(17) {
-  background-color: #75c282; }
+  background-color: #a1bcec; }
 
 ul li:nth-child(18) {
-  background-color: #799d4d; }
+  background-color: #ebd6e9; }
 
 ul li:nth-child(19) {
-  background-color: #2a6c89; }
+  background-color: #7499e2; }
 
 ul li:nth-child(20) {
-  background-color: #d1f2cf; }
+  background-color: #bf9cbc; }
 
 .text {
   font-size: 24px;
@@ -115,11 +115,11 @@ ul li:nth-child(20) {
   left: 50%;
   margin-left: -25px;
   bottom: 100%;
-  border-color: transparent transparent red;
   border-style: solid;
-  border-width: 0 50px 50px;
   height: 0;
-  width: 0; }
+  width: 0;
+  border-color: transparent transparent red;
+  border-width: 0 50px 50px; }
 
 ul {
   list-style-type: decimal; }
