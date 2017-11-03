@@ -1,0 +1,130 @@
+header {
+  background: green;
+  color: #fff; }
+.width1 {
+  width: 10%;
+  border: 1px solid greenyellow; }
+
+.width2 {
+  width: 20%;
+  border: 1px solid greenyellow; }
+
+.width3 {
+  width: 30%;
+  border: 1px solid greenyellow; }
+
+.width4 {
+  width: 40%;
+  border: 1px solid greenyellow; }
+
+.width5 {
+  width: 50%;
+  border: 1px solid greenyellow; }
+
+.width6 {
+  width: 60%;
+  border: 1px solid greenyellow; }
+
+.width7 {
+  width: 70%;
+  border: 1px solid greenyellow; }
+
+.width8 {
+  width: 80%;
+  border: 1px solid greenyellow; }
+
+.width9 {
+  width: 90%;
+  border: 1px solid greenyellow; }
+
+.width10 {
+  width: 100%;
+  border: 1px solid greenyellow; }
+
+ul li:nth-child(1) {
+  background-color: #bd84c8; }
+
+ul li:nth-child(2) {
+  background-color: #cd79a5; }
+
+ul li:nth-child(3) {
+  background-color: #b3d6cb; }
+
+ul li:nth-child(4) {
+  background-color: #8e59a6; }
+
+ul li:nth-child(5) {
+  background-color: #bddea6; }
+
+ul li:nth-child(6) {
+  background-color: #49832a; }
+
+ul li:nth-child(7) {
+  background-color: #d8daf3; }
+
+ul li:nth-child(8) {
+  background-color: #8be9e6; }
+
+ul li:nth-child(9) {
+  background-color: #a49fdf; }
+
+ul li:nth-child(10) {
+  background-color: #f3d0f6; }
+
+ul li:nth-child(11) {
+  background-color: #37a068; }
+
+ul li:nth-child(12) {
+  background-color: #95d48c; }
+
+ul li:nth-child(13) {
+  background-color: #8feae0; }
+
+ul li:nth-child(14) {
+  background-color: #cfc5ed; }
+
+ul li:nth-child(15) {
+  background-color: #94e097; }
+
+ul li:nth-child(16) {
+  background-color: #c8eedb; }
+
+ul li:nth-child(17) {
+  background-color: #75c282; }
+
+ul li:nth-child(18) {
+  background-color: #799d4d; }
+
+ul li:nth-child(19) {
+  background-color: #2a6c89; }
+
+ul li:nth-child(20) {
+  background-color: #d1f2cf; }
+
+.text {
+  font-size: 24px;
+  color: #000071;
+  padding-bottom: 50px; }
+
+.foo {
+  position: relative; }
+
+.foo::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  margin-left: -25px;
+  bottom: 100%;
+  border-color: transparent transparent red;
+  border-style: solid;
+  border-width: 0 50px 50px;
+  height: 0;
+  width: 0; }
+
+ul {
+  list-style-type: decimal; }
+.footer {
+  background: red;
+  color: #fff; }
+  .footer a {
+    font-size: 16px; }
