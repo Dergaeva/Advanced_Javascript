@@ -42,64 +42,64 @@ header {
   border: 1px solid greenyellow; }
 
 ul li:nth-child(1) {
-  background-color: #9ac6db; }
+  background-color: #d6519b; }
 
 ul li:nth-child(2) {
-  background-color: #d89c6f; }
+  background-color: #e05760; }
 
 ul li:nth-child(3) {
-  background-color: #9b493b; }
+  background-color: #afa941; }
 
 ul li:nth-child(4) {
-  background-color: #bae9d6; }
+  background-color: #b79c85; }
 
 ul li:nth-child(5) {
-  background-color: #4d4171; }
+  background-color: #d5c430; }
 
 ul li:nth-child(6) {
-  background-color: #8ebea2; }
+  background-color: #debfc8; }
 
 ul li:nth-child(7) {
-  background-color: #9fcd89; }
+  background-color: #a664a0; }
 
 ul li:nth-child(8) {
-  background-color: #673c3c; }
+  background-color: #d2e0e4; }
 
 ul li:nth-child(9) {
-  background-color: #8544c5; }
+  background-color: #bae08f; }
 
 ul li:nth-child(10) {
-  background-color: #d0c5a4; }
+  background-color: #d3d897; }
 
 ul li:nth-child(11) {
-  background-color: #606ea4; }
+  background-color: #ae946b; }
 
 ul li:nth-child(12) {
-  background-color: #dc7847; }
+  background-color: #329590; }
 
 ul li:nth-child(13) {
-  background-color: #80d0d1; }
+  background-color: #acc9bb; }
 
 ul li:nth-child(14) {
-  background-color: #b0e3b8; }
+  background-color: #a768d4; }
 
 ul li:nth-child(15) {
-  background-color: #b03b9c; }
+  background-color: #96dea3; }
 
 ul li:nth-child(16) {
-  background-color: #56d94a; }
+  background-color: #472abb; }
 
 ul li:nth-child(17) {
-  background-color: #979cce; }
+  background-color: #a1bcec; }
 
 ul li:nth-child(18) {
-  background-color: #a3df8b; }
+  background-color: #ebd6e9; }
 
 ul li:nth-child(19) {
-  background-color: #32c8b6; }
+  background-color: #7499e2; }
 
 ul li:nth-child(20) {
-  background-color: #c4d963; }
+  background-color: #bf9cbc; }
 
 .text {
   font-size: 24px;
