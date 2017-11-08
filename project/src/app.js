@@ -4,8 +4,6 @@ import {footer} from './modules/footer';
 
 const $ = require('jquery');
 const body = $('body');
-
-
-body.append(header(), content(), footer());
+body.append(header, content, footer);
 
 

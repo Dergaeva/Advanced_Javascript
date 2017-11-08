@@ -10,6 +10,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="4c438a74-ba0d-47cd-856a-0f65add4c486" name="deptaxi.ru" url="http://deptaxru.ftp.tools">
+        <fileTransfer host="deptaxru.ftp.tools" port="21" password="dfc8dff0dffedfe4dff3dfc2dfdcdfce" username="deptaxru_ftp">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </project>
