@@ -21,14 +21,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="content.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/10/project/src/modules/content/content.js">
+      <file leaf-file-name="tools.spec.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/13/testing/src/tools.spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+            <state relative-caret-position="720">
+              <caret line="40" column="47" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
               <folding>
-                <marker date="1510150474284" expanded="true" signature="1039:1234" placeholder="..." />
+                <element signature="e#66#96#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tools.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/13/testing/src/tools.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="27" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -63,10 +73,7 @@
         <option value="$PROJECT_DIR$/10/project/webpack.config.js" />
         <option value="$PROJECT_DIR$/10/project/src/app.js" />
         <option value="$PROJECT_DIR$/10/project/src/modules/header/header.js" />
-        <option value="&lt;4dac35a3-6c84-477d-a404-71aa16f73422&gt;/deptaxi.kz/www/pavlodar.php" />
         <option value="&lt;4dac35a3-6c84-477d-a404-71aa16f73422&gt;/deptaxi.kz/www/css/style.css" />
-        <option value="&lt;4dac35a3-6c84-477d-a404-71aa16f73422&gt;/deptaxi.kz/www/ust-kamenogorsk.php" />
-        <option value="&lt;4dac35a3-6c84-477d-a404-71aa16f73422&gt;/deptaxi.kz/www/astana.php" />
         <option value="$PROJECT_DIR$/project/dist/main-bundle.js" />
         <option value="$PROJECT_DIR$/project/src/modules/content/index.js" />
         <option value="$PROJECT_DIR$/project/src/app.js" />
@@ -74,15 +81,27 @@
         <option value="$PROJECT_DIR$/project/webpack.config.js" />
         <option value="$PROJECT_DIR$/12 -testing/app.js" />
         <option value="$PROJECT_DIR$/12 -testing/index.js" />
-        <option value="&lt;4c438a74-ba0d-47cd-856a-0f65add4c486&gt;/deptaxi.ru/www/wp-content/themes/flaton-child/footer.php" />
-        <option value="&lt;4c438a74-ba0d-47cd-856a-0f65add4c486&gt;/deptaxi.ru/www/wp-content/themes/flaton-child/functions.php" />
         <option value="&lt;4c438a74-ba0d-47cd-856a-0f65add4c486&gt;/deptaxi.ru/www/wp-content/themes/flaton-child/header.php" />
         <option value="&lt;4c438a74-ba0d-47cd-856a-0f65add4c486&gt;/deptaxi.ru/www/wp-config.php" />
-        <option value="&lt;4c438a74-ba0d-47cd-856a-0f65add4c486&gt;/deptaxi.ru/www/wp-content/themes/flaton-child/style.css" />
-        <option value="&lt;4c438a74-ba0d-47cd-856a-0f65add4c486&gt;/deptaxi.ru/www/.htaccess" />
         <option value="$USER_HOME$/Downloads/canvasAmination-master/canvasAmination-master/script/main.js" />
         <option value="$PROJECT_DIR$/12 -testing/test.js" />
         <option value="$PROJECT_DIR$/10/project/src/modules/content/content.js" />
+        <option value="&lt;4dac35a3-6c84-477d-a404-71aa16f73422&gt;/deptaxi.kz/www/index.php" />
+        <option value="&lt;4dac35a3-6c84-477d-a404-71aa16f73422&gt;/deptaxi.kz/www/almaty.php" />
+        <option value="&lt;4dac35a3-6c84-477d-a404-71aa16f73422&gt;/deptaxi.kz/www/astana.php" />
+        <option value="&lt;4dac35a3-6c84-477d-a404-71aa16f73422&gt;/deptaxi.kz/www/pavlodar.php" />
+        <option value="&lt;4dac35a3-6c84-477d-a404-71aa16f73422&gt;/deptaxi.kz/www/ust-kamenogorsk.php" />
+        <option value="&lt;4dac35a3-6c84-477d-a404-71aa16f73422&gt;/deptaxi.kz/www/aktobe.php" />
+        <option value="&lt;4dac35a3-6c84-477d-a404-71aa16f73422&gt;/deptaxi.kz/www/kostanay.php" />
+        <option value="&lt;4dac35a3-6c84-477d-a404-71aa16f73422&gt;/deptaxi.kz/www/petropavlovsk.php" />
+        <option value="&lt;4c438a74-ba0d-47cd-856a-0f65add4c486&gt;/deptaxi.ru/www/.htaccess" />
+        <option value="&lt;4c438a74-ba0d-47cd-856a-0f65add4c486&gt;/deptaxi.ru/www/wp-content/themes/flaton-child/functions.php" />
+        <option value="&lt;4c438a74-ba0d-47cd-856a-0f65add4c486&gt;/deptaxi.ru/www/wp-content/themes/flaton-child/page.php" />
+        <option value="&lt;4c438a74-ba0d-47cd-856a-0f65add4c486&gt;/deptaxi.ru/www/wp-content/themes/flaton-child/style.css" />
+        <option value="&lt;4c438a74-ba0d-47cd-856a-0f65add4c486&gt;/deptaxi.ru/www/wp-content/themes/flaton-child/footer.php" />
+        <option value="$PROJECT_DIR$/13/testing/package.json" />
+        <option value="$PROJECT_DIR$/13/testing/src/tools.js" />
+        <option value="$PROJECT_DIR$/13/testing/src/tools.spec.js" />
       </list>
     </option>
   </component>
@@ -93,9 +112,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="589" />
-    <option name="y" value="69" />
-    <option name="width" value="1230" />
+    <option name="x" value="246" />
+    <option name="y" value="55" />
+    <option name="width" value="1456" />
     <option name="height" value="909" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -123,8 +142,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -153,16 +170,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="10" />
+              <option name="myItemId" value="13" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="project" />
+              <option name="myItemId" value="testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="homework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="12-testing" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,7 +293,11 @@
       <workItem from="1509955798288" duration="20693000" />
       <workItem from="1510048075051" duration="12338000" />
       <workItem from="1510084341824" duration="19000" />
-      <workItem from="1510132914328" duration="10365000" />
+      <workItem from="1510132914328" duration="12467000" />
+      <workItem from="1510218096143" duration="9364000" />
+      <workItem from="1510303812822" duration="3766000" />
+      <workItem from="1510481663929" duration="741000" />
+      <workItem from="1510482703271" duration="3634000" />
     </task>
     <task id="LOCAL-00001" summary="8-7">
       <created>1509717221606</created>
@@ -273,20 +310,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54304000" />
+    <option name="totallyTimeSpent" value="73911000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="589" y="69" width="1230" height="909" extended-state="0" />
+    <frame x="246" y="55" width="1456" height="909" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2528428" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24957265" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37679082" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25286534" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42533332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26266667" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -338,27 +375,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/10/project/src/modules/elementBuilder.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10/project/src/modules/content/content.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10/project/src/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/10/project/src/modules/header/header.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -380,20 +396,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10/project/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10/project/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/10/project/dist/index.html" />
+    <entry file="file://$PROJECT_DIR$/10/project/dist/index.html" />
     <entry file="file://$PROJECT_DIR$/10/project/src/modules/content/content.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -465,13 +469,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10/project/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/10/project/dist/index.html" />
     <entry file="file://$PROJECT_DIR$/10/project/src/modules/elementBuilder.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -562,40 +560,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12 -testing/index.js" />
+    <entry file="file://$PROJECT_DIR$/10/project/src/modules/content/content.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-testing/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12 -testing/index.js">
+    <entry file="file://$PROJECT_DIR$/13/testing/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="74" />
+        <state relative-caret-position="-270">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13/testing/src/tools.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/12-testing/test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+        <state relative-caret-position="288">
+          <caret line="55" column="3" selection-start-line="55" selection-start-column="3" selection-end-line="55" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12-testing/app.js">
+    <entry file="file://$PROJECT_DIR$/13/testing/src/tools.spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10/project/src/modules/content/content.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        <state relative-caret-position="720">
+          <caret line="40" column="47" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
           <folding>
-            <marker date="1510150474284" expanded="true" signature="1039:1234" placeholder="..." />
+            <element signature="e#66#96#0" expanded="true" />
           </folding>
         </state>
       </provider>
